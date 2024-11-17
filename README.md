@@ -17,8 +17,8 @@ Freedom to make life choices : Liberté de choix de vie.
 Generosity : Générosité.
 Perceptions of corruption : Perception de la corruption.
 
-1. Carte Choroplèthe : Visualisation des Scores de Bonheur par Pays
-Objectif : Montrer la répartition géographique des scores de bonheur.
+1.  Deux Carte Choroplèthe : Visualisation des Scores de Bonheur par Pays / perception de la corruption par Pays 
+Objectif : Montrer la répartition géographique des scores de bonheur / la corruption 
 Réalisation : Utilisation d'une carte choroplèthe pour visualiser les scores par pays, avec des couleurs plus intenses pour indiquer des scores plus élevés.
 
 2. Classement Global des Pays
@@ -39,13 +39,17 @@ Titre : "Répartition de la Liberté de Choix dans la Vie par Pays"
 4. Deux Scatter Plots pour Analyser les Corrélations entre Variables
 Objectif : Examiner la relation entre différents facteurs pour évaluer leur impact sur le bonheur.
 
-Réalisation : Scatter Plot : Corrélation entre le PIB par Habitant et le Soutien Social :
+Réalisation : Scatter Plot : Corrélation entre le PIB par Habitant et le Soutien Social 
 Axes : "GDP per capita" (axe X) et "Social support" (axe Y).
-Détail : Chaque point représente un pays, avec la possibilité d'ajouter une ligne de tendance pour visualiser la corrélation.
+Détail : Chaque point représente un pays, avec une ligne de tendance pour visualiser la corrélation.
 Titre : "Relation entre le Soutien Social et le PIB par Habitant : Analyse de la Corrélation"
 
 
 
+Scatter Plot : Corrélation entre le PIB par Habitant et l'espérence de vie
+Axe : "GDP per capita" (axes X) et "Healthy life expectancy" (axe Y). 
+Détail : Chaque point représente un pays, avec une ligne de tendance pour visualiser la corrélation.
+Titre : "Relation entre le PIB par Habitant et l'espérence de vie par Pays"
 
 
 
